@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <display-name>Projet2a</display-name>
+  <welcome-file-list>
+    <welcome-file>CompteControleur</welcome-file>
+    <welcome-file>DisponibiliteControleur</welcome-file>
+    <welcome-file>AppareilControleur</welcome-file>
+    <welcome-file>NewuserControleur</welcome-file>
+    <welcome-file>StrategieControleur</welcome-file>
+    <welcome-file>BrancheControleur</welcome-file>
+    <welcome-file>BilanControleur</welcome-file>
+  </welcome-file-list>
+</web-app>
