@@ -32,6 +32,3 @@ Ce projet est une application web basée en Java utilisant l'architecture Modèl
 ## Bibliothèques
 - **JSTL** : Pour le support des JSP et du langage d'expression.
 - **MySQL Connector** : Gère les connexions à la base de données MySQL.
-
-## Licence
-Ce projet est sous [La Licence de Votre Choix].
